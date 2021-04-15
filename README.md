@@ -3,7 +3,7 @@
 
 * 📫 How to reach me:
 
-  ✔️ Telegram: <a href="https://t.me/Neki_play">@Zalexanninev15</a>
+  ✔️ Telegram: <a href="https://t.me/Neki_play">@Neki_play</a>
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=Nekiplay&hide_border=true&show_icons=true&layout=default&theme=radical">

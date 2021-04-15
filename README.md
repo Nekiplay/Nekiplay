@@ -3,7 +3,7 @@
 
 * 💰 How to support me:
 
-  💛 QIWI: <a href="qiwi.com/n/NEKIPLAY">NEKIPLAY</a>
+  💛 QIWI: <a href="https://qiwi.com/n/NEKIPLAY">NEKIPLAY</a>
 
 * 📫 How to reach me:
 

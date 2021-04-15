@@ -9,6 +9,8 @@
 
   ✔️ Telegram: <a href="https://t.me/Neki_play">@Neki_play</a>
 
+  ✔️ VKontakte: <a href="https://vk.com/neki_play">@Neki_play</a>
+
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=Nekiplay&hide_border=true&show_icons=true&layout=default&theme=radical">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nekiplay&hide_border=true&layout=default&theme=radical">

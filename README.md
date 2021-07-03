@@ -11,6 +11,8 @@
 
   ✔️ VKontakte: <a href="https://vk.com/neki_play">@Neki_play</a>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Nekiplay&hide_border=true&show_icons=true&layout=default&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api?username=Nekiplay&hide_border=true&show_icons=true&layout=default&theme=radical">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nekiplay&hide_border=true&layout=default&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nekiplay&hide_border=true&layout=default&theme=radical">
+
+<figure><embed src="https://wakatime.com/share/@665cfb55-bc31-4251-a104-f9078e141884/6e65500b-32b6-4156-b0c2-43709e6d124f.svg"></embed></figure>

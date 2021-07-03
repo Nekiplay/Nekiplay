@@ -15,4 +15,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nekiplay&hide_border=true&layout=default&theme=radical">
 
-<img src="https://wakatime.com/share/@665cfb55-bc31-4251-a104-f9078e141884/6e65500b-32b6-4156-b0c2-43709e6d124f.svg">
+<img src="https://wakatime.com/share/@665cfb55-bc31-4251-a104-f9078e141884/3bce1064-a39a-4d93-adcb-f3d10236cc2e.png">

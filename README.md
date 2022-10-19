@@ -7,7 +7,7 @@
 
 * 📫 How to reach me:
 
-  ✔️ Telegram: <a href="https://t.me/Neki_play">@Neki_play</a>
+  ✔️ Telegram: <a href="https://t.me/nekiplay">@nekiplay</a>
 
   ✔️ VKontakte: <a href="https://vk.com/neki_play">@Neki_play</a>
 

@@ -3,7 +3,7 @@
 
 * 💰 How to support me:
 
-  💛 Boostry: <a href="https://boosty.to/nekiplay">nekiplay</a>
+  💛 Boosty: <a href="https://boosty.to/nekiplay">nekiplay</a>
   
   💛 QIWI: <a href="https://qiwi.com/n/NEKIPLAY">NEKIPLAY</a>
 

@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I <a href="https://github.com/Nekiplay">Danilov Roman</a>👋🏻</h1>
+<h1 align="center">Hi, I <a href="https://github.com/Nekiplay">Neki_play</a>👋🏻</h1>
 <h3>Welcome to my GitHub account. I am a developer of open source projects in C#. I like to develop libraries and applications that will make it easier for other developers to use my tools to write their own programs. All my projects can be viewed in my profile!</h3>
 
 <div align="center">
@@ -8,12 +8,16 @@
 
 * 💰 How to support me:
 
-  💛 Boosty: <a href="https://boosty.to/nekiplay">nekiplay</a>
-  
-  💛 QIWI: <a href="https://qiwi.com/n/NEKIPLAY">NEKIPLAY</a>
+| Cryptocurrency     | Addresses                                                           |
+|--------------------|-----------------------------------------------------------------------|
+| **Bitcoin (BTC)**  | **bc1qyg8u8r7z9235h7y9982kuz85wp582xdmkhm0hc**                        |
+| **Ethereum (EHT)** | **0x70B44EEdf0614d9fAaa2BC74f342E056919cEA2E**                        |
+| **Nano (XNO)**     | **nano_3484axa93k3ssig6nz6j8bueondhytjc47gbpfiqgm87tdzbjf74hzyeomei** |
+| **Monero (XMR)**     | **46uu8qB4UrhMMSgwq3hsWGjR5vVHaxtyV4FS6J7mtU8ZaDdn1ykYXJUH9sSNPht62wBToFwTjZSD5Bff2QWgmosc4Zc
 
 * 📫 How to reach me:
 
   ✔️ Telegram: <a href="https://t.me/fsbshics">@fsbshics</a>
+  
+  ✔️ Session: <a>054f5dab6c89f57858b46d3694c3f14355377c3e803537f57f7b5de4529c33d430</a>
 
-  ✔️ VKontakte: <a href="https://vk.com/neki_play">@Neki_play</a>

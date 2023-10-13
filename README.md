@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I <a href="https://github.com/Nekiplay">Neki_play</a>👋🏻</h1>
-<h3>Welcome to my GitHub account. I am a developer of open source projects in C#. I like to develop libraries and applications that will make it easier for other developers to use my tools to write their own programs. All my projects can be viewed in my profile!</h3>
+<h3>Welcome to my GitHub account. I am a developer of open source projects in C#, Rust. I like to develop libraries and applications that will make it easier for other developers to use my tools to write their own programs. All my projects can be viewed in my profile!</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NekiPlay&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />

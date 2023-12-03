@@ -20,4 +20,6 @@
   ✔️ Telegram: <a href="https://t.me/nekiplay">@nekiplay</a>
   
   ✔️ Session: <a>054f5dab6c89f57858b46d3694c3f14355377c3e803537f57f7b5de4529c33d430</a>
+  
+  ✔️ Matrix (Element): <a>@nekiyt:matrix.org</a>  
 

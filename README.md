@@ -6,6 +6,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NekiPlay&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+![Profile Stats](https://raw.githubusercontent.com/Nekiplay/Nekiplay/refs/heads/main/profile-3d-contrib/profile-night-rainbow.svg)
+
 <a href="https://monkeytype.com/profile/Neki_play">MonkeyType</a>
 
 * 💰 How to support me:

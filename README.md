@@ -9,7 +9,7 @@
 
 | Cryptocurrency     | Addresses                                                           |
 |--------------------|-----------------------------------------------------------------------|
-| **LiteCoin (LTC)**  | **Le1b7ZRSa42LACXDX78q2km3GJpRA9WjVx**                        |
+| **LiteCoin (LTC)**  | **LX7hddjfuqzDrfGx5XTKUtrh4g3GgPRbHk**                        |
 
 * 📫 How to reach me:
 

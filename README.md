@@ -15,5 +15,5 @@
 
   ✔️ Telegram: <a href="https://t.me/nekiplay">@nekiplay</a>
 
-  ✔️ Matrix (Element): <a>@nekiyt:matrix.org</a>  
+  ✔️ Matrix: <a>@nekiyt:matrix.org</a>  
 

@@ -3,10 +3,13 @@
 
 ![Profile Stats](https://raw.githubusercontent.com/Nekiplay/Nekiplay/refs/heads/main/profile-3d-contrib/profile-night-rainbow.svg)
 
-<a href="https://monkeytype.com/profile/Neki_play">MonkeyType</a>
+
+## 📝 Blogs
+
+- Telegram Blog: https://t.me/+1dHAcwBHLgkwM2Uy
+- MonkeyType: https://monkeytype.com/profile/Neki_play
 
 ## 🔧 Technologies & Tools
-
 
 **Programming Languages:**
 
@@ -30,16 +33,3 @@
 <a href="https://github.com/WinBooster/Cross-Cleaner">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WinBooster&repo=Cross-Cleaner&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="cross-cleaner" />
 </a>
-
-* 💰 How to support me:
-
-| Cryptocurrency     | Addresses                                                           |
-|--------------------|-----------------------------------------------------------------------|
-| **LiteCoin (LTC)**  | **LX7hddjfuqzDrfGx5XTKUtrh4g3GgPRbHk**                        |
-
-* 📫 How to reach me:
-
-  ✔️ Telegram: <a href="https://t.me/nekiplay">@nekiplay</a>
-
-  ✔️ Matrix: <a>@nekiyt:matrix.org</a>  
-

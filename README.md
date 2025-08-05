@@ -6,7 +6,6 @@
 
 ## 📝 Blogs
 
-- Telegram Blog: https://t.me/+1dHAcwBHLgkwM2Uy
 - MonkeyType: https://monkeytype.com/profile/Neki_play
 
 ## 🔧 Technologies & Tools

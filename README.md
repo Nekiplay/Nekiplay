@@ -19,7 +19,7 @@
 
 ## 🏆 GitHub Trophies
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=Nekiplay&theme=nord&column=7)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Nekiplay&theme=nord&column=7)](https://github.com/Nekiplay/github-profile-trophy)
 
 ## 🗂️ Highlight Projects
 

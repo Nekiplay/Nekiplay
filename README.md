@@ -20,7 +20,7 @@
 
 **Tools and Services:**
 
-![MongoBD](https://img.shields.io/badge/DB-MongoBD-informational?style=flat&logo=mongodb&logoColor=white&color=6aa6f8)
+![MongoDB](https://img.shields.io/badge/DB-MongoBD-informational?style=flat&logo=mongodb&logoColor=white&color=6aa6f8)
 
 ## 🏆 GitHub Trophies
 

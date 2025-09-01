@@ -10,6 +10,8 @@
 ## 📝 Blogs
 
 - MonkeyType: https://monkeytype.com/profile/Neki_play
+- YouGame: https://yougame.biz/members/71629/
+- VK: https://vk.com/neki_play
 
 ## 🔧 Technologies & Tools
 

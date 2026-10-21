@@ -16,6 +16,13 @@
 - YouGame: https://yougame.biz/members/71629/
 - VK: https://vk.com/neki_play
 
+## 📝 Contacts
+
+- Discord: neki_play - I’m here often.
+- YouGame: https://yougame.biz/members/71629/
+- VK: https://vk.com/neki_play - I’m rarely there.
+
+
 ## 🔧 Technologies & Tools
 
 **Programming Languages:**

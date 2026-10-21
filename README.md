@@ -20,8 +20,10 @@
 
 **Programming Languages:**
 
-![Rust](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=6aa6f8)
-![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=6aa6f8)
+![С#](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=dotnet&logoColor=white&color=6aa6f8)
+![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&labelColor=eb8c34&color=ebba34)
+![Kotlin](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=6aa6f8)
+![Rust](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&labelColor=e82833&color=b11522)
 
 **Tools and Services:**
 

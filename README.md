@@ -2,7 +2,7 @@
   Hi, I'm <a href="https://github.com/Nekiplay">Neki_play</a> 👋🏻<br>
   I ❤️ OpenSource
 </h1>
-<h3>Welcome to my GitHub account. I am a schizophrenic programmer who develops open-source projects using C#, Java, Kotlin, and Rust. I enjoy creating libraries and applications that make it easier for other developers to use my tools when building their own software. You can check out all my projects on my profile!</h3>
+<h3>Welcome to my GitHub account. I am programmer who develops open-source projects using C#, Java, Kotlin, and Rust. I enjoy creating libraries and applications that make it easier for other developers to use my tools when building their own software. You can check out all my projects on my profile!</h3>
 
 ![Profile Stats](https://raw.githubusercontent.com/Nekiplay/Nekiplay/refs/heads/main/profile-3d-contrib/profile-night-rainbow.svg)
 
